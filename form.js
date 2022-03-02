@@ -1,4 +1,4 @@
-alert("Welcome May The lORD Bless You In Jesus Christ Name✝️");
+alert("Welcome May The LORD Bless You In Jesus Christ Name✝️");
 
 var email = document.getElementById("email");
 var pwd = document.getElementById("pwd");
